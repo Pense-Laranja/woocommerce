@@ -1,4 +1,4 @@
-module github.com/eideroliveira/woocommerce
+module github.com/Pense-Laranja/woocommerce
 
 go 1.23
 
